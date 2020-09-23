@@ -1,0 +1,4 @@
+[submodule "imxuanbach11/demogialong_submodule"]
+	path = imxuanbach11/demogialong_submodule
+	url = git@github.com:imxuanbach11/demogialong_submodule.git
+	branch = master
